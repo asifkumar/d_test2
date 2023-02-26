@@ -1,0 +1,6 @@
+[core]
+    remote = storage
+['remote "dtorage"']
+    url = s3://acron-devops-map-276/dvc/
+['remote "storage"']
+    url = s3://acron-devops-map-276/dvc/
